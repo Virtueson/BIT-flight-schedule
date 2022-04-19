@@ -1,0 +1,10 @@
+18001 Jakarta Beijing 18.30 21.00 38
+18002 Jakarta Shanghai 14.00 16.30 31
+18003 Jakarta Tokyo 15.00 17.00 45
+18004 Jakarta Bangkok 18.00 20.00 35
+18005 Jakarta KualaLumpur 19.00 20.00 38
+18006 Jakarta Naypyidaw 7.00 8.30 50
+18007 Jakarta Singapore 10.00 12.00 35
+18008 Jakarta Manila 13.00 14.30 35
+18009 Jakarta Hanoi 20.00 22.30 43
+18010 Jakarta Seoul 9.00 11.00 40
